@@ -1,0 +1,10 @@
+*.swp
+*.swo
+*.sublime*
+node_modules/*
+dist/*
+coverage/*
+.DS_Store
+versions.json
+.idea
+build/*
