@@ -1,7 +1,7 @@
 {
   "name": "sandbox",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://kerbam.github.io/sandbox",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
@@ -30,6 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://jcopendo.github.io/sandbox"
+  }
 }
